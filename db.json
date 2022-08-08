@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Dating with friends",
+      "day": "5th July 3:30PM",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Hanging out with D",
+      "day": "7th August 1:20PM",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Doctor Appointment",
+      "day": "20th April 8:00AM",
+      "reminder": true
+    },
+    {
+      "text": "Amos meeting",
+      "day": "6th June 4:00PM",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
