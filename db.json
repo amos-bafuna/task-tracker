@@ -23,6 +23,12 @@
       "day": "6th June 4:00PM",
       "reminder": true,
       "id": 4
+    },
+    {
+      "text": "Amos Test",
+      "day": "Mon November 7:30 PM",
+      "reminder": true,
+      "id": 5
     }
   ]
 }
