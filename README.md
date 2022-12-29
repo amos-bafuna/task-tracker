@@ -14,3 +14,6 @@ $ npm start
 
 #Run the Json server: Open a new terminal and within the same folder type:
 $ npm run server
+
+And.......
+You are done
