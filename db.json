@@ -10,7 +10,7 @@
       "id": 2,
       "text": "Hanging out with D",
       "day": "7th August 1:20PM",
-      "reminder": true
+      "reminder": false
     },
     {
       "id": 3,
@@ -21,7 +21,7 @@
     {
       "text": "Amos meeting",
       "day": "6th June 4:00PM",
-      "reminder": true,
+      "reminder": false,
       "id": 4
     },
     {
